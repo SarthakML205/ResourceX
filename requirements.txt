@@ -1,0 +1,14 @@
+browser-use
+langchain-google-genai
+playwright
+arxiv
+beautifulsoup4
+groq
+langchain-community
+langchain[groq]
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+gspread
+streamlit
+pandas
